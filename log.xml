@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<ArrayOfLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Log>
+    <Date>2020-09-20T22:36:45.2064325+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+ファイルまたはアセンブリ 'FontAwesome.WPF, PublicKeyToken=0758b07a11a4f466'、またはその依存関係の 1 つが読み込めませんでした。指定されたファイルが見つかりません。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-20T22:36:51.1814487+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+ファイルまたはアセンブリ 'FontAwesome.WPF, PublicKeyToken=0758b07a11a4f466'、またはその依存関係の 1 つが読み込めませんでした。指定されたファイルが見つかりません。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-20T22:40:52.4206598+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+ファイルまたはアセンブリ 'FontAwesome.WPF, PublicKeyToken=0758b07a11a4f466'、またはその依存関係の 1 つが読み込めませんでした。指定されたファイルが見つかりません。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-26T11:24:09.863978+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+ファイルまたはアセンブリ 'FontAwesome.WPF, PublicKeyToken=0758b07a11a4f466'、またはその依存関係の 1 つが読み込めませんでした。指定されたファイルが見つかりません。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-26T11:30:52.0696781+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-26T11:42:15.0841695+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-26T11:56:49.1312774+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-26T11:57:43.5831426+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-09-27T11:29:16.3413836+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+ファイルまたはアセンブリ 'FontAwesome.WPF, PublicKeyToken=0758b07a11a4f466'、またはその依存関係の 1 つが読み込めませんでした。指定されたファイルが見つかりません。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-10-11T22:45:36.4304513+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+  <Log>
+    <Date>2020-11-28T09:54:15.5590628+09:00</Date>
+    <Type>Error</Type>
+    <Message>Radikool4.9.1.0 正式版 (windows 内部バージョン：10.0 64bit)
+.NET Framework:v4.0.30319
+zip版
+------------------------------------------
+指定されたバインディング制約に一致する型 'Radikool4.MainWindow' のコンストラクターの呼び出しで例外がスローされました。
+System.Windows.Markup.XamlParseException
+   場所 System.Windows.Markup.WpfXamlLoader.Load(XamlReader xamlReader, IXamlObjectWriterFactory writerFactory, Boolean skipJournaledProperties, Object rootObject, XamlObjectWriterSettings settings, Uri baseUri)
+   場所 System.Windows.Markup.WpfXamlLoader.LoadBaml(XamlReader xamlReader, Boolean skipJournaledProperties, Object rootObject, XamlAccessLevel accessLevel, Uri baseUri)
+   場所 System.Windows.Markup.XamlReader.LoadBaml(Stream stream, ParserContext parserContext, Object parent, Boolean closeStream)
+   場所 System.Windows.Application.LoadBamlStreamWithSyncInfo(Stream stream, ParserContext pc)
+   場所 System.Windows.Application.LoadComponent(Uri resourceLocator, Boolean bSkipJournaledProperties)
+   場所 System.Windows.Application.DoStartup()
+   場所 System.Windows.Application.&lt;.ctor&gt;b__1_0(Object unused)
+   場所 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   場所 System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)</Message>
+    <Group>例外エラー</Group>
+  </Log>
+</ArrayOfLog>
